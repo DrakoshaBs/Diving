@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Quicksand:wght@300..700&display=swap');
+body{
+    font-family: "Quicksand", sans-serif;
+     font-family: "Inter", sans-serif;
+}
+header{
+    
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 50px;
+padding: 40px;
+background-color: #0C70AC;
+color: #FFFFFF;
+}
+.sec1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+   background-color: #0C70AC;
+   color: #FFFFFF;
+}
+.sec1 h1{
+    
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+margin-bottom: 20px;
+
+}
+.sec1 p{
+    
+font-weight: 700;
+font-style: Bold;
+font-size: 32px;
+max-width: 800px;
+margin-bottom: 40px;
+}
+.sec2{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 100px;
+}
+.sec2 h1{
+    
+font-weight: 600;
+font-style: SemiBold;
+font-size: 40px;
+color: #000000;
+text-align: center;
+align-items: center;
+
+}
+.sec2 h3{
+    
+font-weight: 500;
+font-style: Medium;
+font-size: 36px;
+text-align: center;
+color: #000000;
+}
+.sec2 p{
+    
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+text-align: center;
+color: #000000;
+margin-bottom: 25px;
+}
+.sec2 q{
+    
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+text-align: center;
+color: #7C7C7C;
+padding: 50px;
+border-radius: 4px;
+}
+.sec3{
+    display: flex;
+    margin-bottom: 80px;
+    gap: 50px;
+}
+.sec3 h1{
+    
+font-weight: 600;
+font-style: SemiBold;
+font-size: 40px;
+color: #000000;
+text-align: center;
+}
+.sec3 h6{
+    
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+color: #7C7C7C;
+margin-bottom: 10px;
+}
+.sec3 b{
+
+font-weight: 600;
+font-style: SemiBold;
+font-size: 24px;
+color: #000000;
+margin-bottom: 10px;
+
+}
+.sec3 p{
+    
+font-weight: 600;
+font-style: SemiBold;
+font-size: 20px;
+color: #7C7C7C;
+
+}
+.sec4{
+    background-color: #001C2D;
+}
+.sec4 h2{
+    
+font-weight: 600;
+font-style: SemiBold;
+font-size: 40px;
+margin-bottom: 25px;
+color: #FFFFFF;
+text-align: center;
+}
+.sec4 p{
+    
+font-weight: 600;
+font-style: SemiBold;
+font-size: 24px;
+color: #FFFFFF;
+align-items: center;
+text-align: center;
+}
+footer{
+    
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+text-align: center;
+padding: 30px;
+background-color: #001C2D;
+color: #FFFFFF;
+}
